@@ -75,16 +75,6 @@ Based on Barbara Fredrickson's broaden-and-build theory of positive emotions, I 
 
 ## Reference 
 
-Barbara Fredrickson's broaden-and-build theory of positive emotions suggests that experiencing a wide range of positive emotions can have beneficial effects on individuals' well-being and personal growth. While Fredrickson initially proposed three primary positive emotions (joy, interest, and contentment), she later expanded her model to include a total of ten positive emotions. These ten positive emotions are:
-Joy
-Gratitude
-Serenity
-Interest
-Hope
-Pride
-Amusement
-Inspiration
-Awe
-Love
+Barbara Fredrickson's broaden-and-build theory of positive emotions suggests that experiencing a wide range of positive emotions can have beneficial effects on individuals' well-being and personal growth. While Fredrickson initially proposed three primary positive emotions (joy, interest, and contentment), she later expanded her model to include a total of ten positive emotions. These ten positive emotions are:Joy,Gratitude,Serenity,Interest,Hope,Pride,Amusement,Inspiration,Awe,Love.
 
 These positive emotions are believed to broaden individuals' thought-action repertoires, build personal resources, and promote resilience and flourishing.
