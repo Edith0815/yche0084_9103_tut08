@@ -55,6 +55,8 @@ p5.js: Utilized for its robust animation capabilities, making it easier to imple
 
 I refactored the original code to improve performance and added new functions for size animation and movement. The original code only supported static bubbles, so I added the movement and size animation logic.
 
+Based on Barbara Fredrickson's broaden-and-build theory of positive emotions, I modified the emotions displayed in the bubbles, as well as the colours, with music, based on our original project, so that the audience would recall these positive emotions from the past while watching it, giving them a Healing feeling.
+
 
 ## External Tools and Techniques 
 
@@ -69,3 +71,20 @@ I refactored the original code to improve performance and added new functions fo
 - Adapted from the week10 tutorial, a technique for generating Perlin noise provides an easy way to create natural animations.
   
 - The random movement of the bubbles was inspired by a code snippet from [openprocessing] (https://openprocessing.org/sketch/2166068), which I modified to meet the needs of my project.
+
+
+## Reference 
+
+Barbara Fredrickson's broaden-and-build theory of positive emotions suggests that experiencing a wide range of positive emotions can have beneficial effects on individuals' well-being and personal growth. While Fredrickson initially proposed three primary positive emotions (joy, interest, and contentment), she later expanded her model to include a total of ten positive emotions. These ten positive emotions are:
+Joy
+Gratitude
+Serenity
+Interest
+Hope
+Pride
+Amusement
+Inspiration
+Awe
+Love
+
+These positive emotions are believed to broaden individuals' thought-action repertoires, build personal resources, and promote resilience and flourishing.

@@ -110,16 +110,16 @@ function setup() {
   textAlign(CENTER, CENTER);
 
   // Create bubbles with different text and color
-  movingBubbles.push(new MovingBubble("sad", color(0, 0, 139, 150), color(221, 160, 221, 150)));
+  movingBubbles.push(new MovingBubble("gratitude", color(173, 216, 230, 150), color(221, 160, 221, 150)));
   movingBubbles.push(new MovingBubble("love", color(173, 216, 230, 150), color(255, 182, 193, 150)));
-  movingBubbles.push(new MovingBubble("joy", color(255, 127, 80, 150), color(255, 223, 0, 150)));
-  movingBubbles.push(new MovingBubble("peace", color(173, 216, 230, 150), color(143, 188, 143)));
-  movingBubbles.push(new MovingBubble("anxious", color(227, 218, 201, 150), color(145, 129, 81, 150)));
-  movingBubbles.push(new MovingBubble("lonely", color(25, 25, 112, 150), color(65, 105, 225, 150)));
-  movingBubbles.push(new MovingBubble("helpless", color(192, 192, 192, 150), color(220, 220, 220, 150)));
-  movingBubbles.push(new MovingBubble("powerful", color(255, 223, 0, 150), color(255, 37, 0, 150)));
-  movingBubbles.push(new MovingBubble("angry", color(16, 12, 8, 150), color(194, 0, 0, 150)));
-
+  movingBubbles.push(new MovingBubble("joy", color(173, 216, 230, 150), color(255, 127, 80, 150)));
+  movingBubbles.push(new MovingBubble("serenity", color(173, 216, 230, 150), color(230,230,250,150)));
+  movingBubbles.push(new MovingBubble("interst", color(173, 216, 230, 150), color(6,180,176,150)));
+  movingBubbles.push(new MovingBubble("hope", color(173, 216, 230, 150), color(160,210,141,150)));
+  movingBubbles.push(new MovingBubble("pride", color(173, 216, 230, 150), color(255,215,0, 150)));
+  movingBubbles.push(new MovingBubble("awe", color(173, 216, 230, 150), color(207,56,149,150)));
+  movingBubbles.push(new MovingBubble("amusement", color(173, 216, 230, 150), color(255,133,82,150)));
+  movingBubbles.push(new MovingBubble("inspiration", color(173, 216, 230, 150), color(0,255,255,150)));
   // Create button to play music
   let button = createButton('Play/Stop');
   button.position((width - button.width) / 2, height - button.height - 2);
